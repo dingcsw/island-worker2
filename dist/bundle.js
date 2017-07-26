@@ -33223,7 +33223,7 @@
 	              ),
 	              _react2.default.createElement(
 	                'option',
-	                { value: '1000' },
+	                { value: '500' },
 	                '500'
 	              ),
 	              _react2.default.createElement(
@@ -33233,7 +33233,7 @@
 	              ),
 	              _react2.default.createElement(
 	                'option',
-	                { value: '1000' },
+	                { value: '1500' },
 	                '1500'
 	              ),
 	              _react2.default.createElement(
@@ -33243,7 +33243,7 @@
 	              ),
 	              _react2.default.createElement(
 	                'option',
-	                { value: '1000' },
+	                { value: '2500' },
 	                '2500'
 	              ),
 	              _react2.default.createElement(
@@ -33253,7 +33253,7 @@
 	              ),
 	              _react2.default.createElement(
 	                'option',
-	                { value: '1000' },
+	                { value: '3500' },
 	                '3500'
 	              ),
 	              _react2.default.createElement(
@@ -33263,7 +33263,7 @@
 	              ),
 	              _react2.default.createElement(
 	                'option',
-	                { value: '1000' },
+	                { value: '4500' },
 	                '4500'
 	              ),
 	              _react2.default.createElement(
@@ -33273,7 +33273,7 @@
 	              ),
 	              _react2.default.createElement(
 	                'option',
-	                { value: '1000' },
+	                { value: '5500' },
 	                '5500'
 	              ),
 	              _react2.default.createElement(
@@ -33283,7 +33283,7 @@
 	              ),
 	              _react2.default.createElement(
 	                'option',
-	                { value: '1000' },
+	                { value: '6500' },
 	                '6500'
 	              ),
 	              _react2.default.createElement(
@@ -33293,7 +33293,7 @@
 	              ),
 	              _react2.default.createElement(
 	                'option',
-	                { value: '1000' },
+	                { value: '7500' },
 	                '7500'
 	              ),
 	              _react2.default.createElement(
@@ -33303,7 +33303,7 @@
 	              ),
 	              _react2.default.createElement(
 	                'option',
-	                { value: '1000' },
+	                { value: '8500' },
 	                '8500'
 	              ),
 	              _react2.default.createElement(
@@ -33313,7 +33313,7 @@
 	              ),
 	              _react2.default.createElement(
 	                'option',
-	                { value: '1000' },
+	                { value: '9500' },
 	                '9500'
 	              ),
 	              _react2.default.createElement(

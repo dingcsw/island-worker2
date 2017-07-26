@@ -121,16 +121,16 @@ class OptionMoneyMarket extends Component {
               value={selectedOption2}
               id="formSelect2" 
               style={{ 'fontSize': '250%', 'padding': '2.5%', 'width': '30%', 'borderBottomLeftRadius': '0px' }}>
-              <option value="amount">amount</option><option value="1000">500</option>
-              <option value="1000">1000</option><option value="1000">1500</option>
-              <option value="2000">2000</option><option value="1000">2500</option>
-              <option value="3000">3000</option><option value="1000">3500</option>
-              <option value="4000">4000</option><option value="1000">4500</option>
-              <option value="5000">5000</option><option value="1000">5500</option>
-              <option value="6000">6000</option><option value="1000">6500</option>
-              <option value="7000">7000</option><option value="1000">7500</option>
-              <option value="8000">8000</option><option value="1000">8500</option>
-              <option value="9000">9000</option><option value="1000">9500</option>
+              <option value="amount">amount</option><option value="500">500</option>
+              <option value="1000">1000</option><option value="1500">1500</option>
+              <option value="2000">2000</option><option value="2500">2500</option>
+              <option value="3000">3000</option><option value="3500">3500</option>
+              <option value="4000">4000</option><option value="4500">4500</option>
+              <option value="5000">5000</option><option value="5500">5500</option>
+              <option value="6000">6000</option><option value="6500">6500</option>
+              <option value="7000">7000</option><option value="7500">7500</option>
+              <option value="8000">8000</option><option value="8500">8500</option>
+              <option value="9000">9000</option><option value="9500">9500</option>
               <option value="10000">10000</option>
             </select>  
             
